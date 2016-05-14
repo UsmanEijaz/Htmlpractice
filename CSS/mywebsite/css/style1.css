@@ -1,0 +1,23 @@
+.red{
+   background-color: #ff0000;
+   color: #ffffff;
+   text-align: none;
+   text-transform: uppercase;
+   text-decoration: underline;
+   font-weight: normal;
+   font-weight: bold;
+   font-weight: bolder;
+   /* padding: top/left/right/bottom,*/
+   padding: 10px;
+   /* padding: top/bottom /left/right,*/
+   padding: 10px 20px;
+   /* padding: top right bottom right*/
+   padding: 10pt 15px 20px 25px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 10px;
+   padding-right: 10px;
+   
+   
+    
+}
